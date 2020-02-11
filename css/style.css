@@ -1,0 +1,112 @@
+.wholepage {
+  width: 725px;
+  background-color: lightgray;
+}
+
+.header {
+  display: flex;
+  background-color: black;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.logo {
+  color: white;
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+.menu {
+  display: flex;
+  color: white;
+  list-style-type: none;
+}
+
+.divcontainer {
+  width: 100%;
+  display: flex;
+}
+
+.heading2 {
+  font-size: 24px;
+}
+
+.readmore1 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.readmore2 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.divleft {
+  width: 525px;
+}
+
+img {
+  width: 525px;
+}
+
+.divright {
+  width: 200px;
+  margin-left: 15px;
+}
+
+.menu2 {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.adimage {
+  width: 175px;
+}
+
+.signup-section {
+  display: flex;
+  justify-content: center;
+  background-color: yellow;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.button1 {
+  padding: 10px 24px;
+  font-size: 18px;
+  color: white;
+  background-color: black;
+}
+
+.footer-section {
+  display: flex;
+  background-color: black;
+  flex-direction: column;
+  height: 250px;
+  font-size: 24px;
+  color: yellow;
+  align-items: center;
+}
+
+.imagesection {
+  display: inline;
+  padding-top: 25px;
+}
+
+.image1 {
+  padding-right: 10px;
+  width: 33px;
+  height: 43px;
+}
+
+.image2 {
+  padding-left: 10px;
+  width: 17px;
+  height: 37px;
+}
+
+.copyright {
+  padding-top: 25px;
+  font-size: 9px;
+}
